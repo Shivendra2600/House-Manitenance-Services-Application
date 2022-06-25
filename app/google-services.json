@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620788509416",
+    "project_id": "sdp-sem-4",
+    "storage_bucket": "sdp-sem-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620788509416:android:7c502c6ee21f3ef679775d",
+        "android_client_info": {
+          "package_name": "com.example.sdpsem4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620788509416-cfe967pevisvk52qlep1ooe3gkfm20q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpm8LzG6p3ub27_ZHewJ_JL9S0x9UAioc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620788509416-cfe967pevisvk52qlep1ooe3gkfm20q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

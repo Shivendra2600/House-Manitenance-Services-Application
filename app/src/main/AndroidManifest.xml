@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sdpsem4">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SDPSEM4">
+        <activity
+            android:name=".Job_StatusSP"
+            android:exported="false" />
+        <activity
+            android:name=".Payment"
+            android:exported="false" />
+        <activity
+            android:name=".worker_details"
+            android:exported="false" />
+        <activity
+            android:name=".Job_Bids"
+            android:exported="false" />
+        <activity
+            android:name=".Job_DecSP"
+            android:exported="false" />
+        <activity
+            android:name=".Job_Available"
+            android:exported="false" />
+        <activity
+            android:name=".jobList_SP"
+            android:exported="false" />
+        <activity
+            android:name=".SP_first"
+            android:exported="false" />
+        <activity
+            android:name=".Job_Desc"
+            android:exported="false" />
+        <activity
+            android:name=".Job_Status"
+            android:exported="false" />
+        <activity
+            android:name=".JobList"
+            android:exported="false" />
+        <activity
+            android:name=".Firstwork"
+            android:exported="false" />
+        <activity
+            android:name=".first"
+            android:exported="false" />
+        <activity
+            android:name=".Signup"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
